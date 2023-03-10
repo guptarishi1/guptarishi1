@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [Big data](https://github.com/guptarishi1/Big-data-and-music-recommendation.git)
+- 🔭 I’m currently working on [Big data and music recommendation](https://github.com/guptarishi1/Big-data-and-music-recommendation.git)
 
 - 🌱 I’m currently learning **Snowflake**
 
